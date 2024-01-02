@@ -1,0 +1,27 @@
+            h1 {
+              font-family: 'Oswald' , sans-serif;
+              color: darkblue;
+            }
+          
+            p {
+              font-family: 'Nanum Myeongjo' , sans-serif;
+              color: #c71212;
+            }
+
+        #금일-도전 {
+            color: rgb(31, 117, 156);
+            font-weight: bold;
+            font-size: 52px;
+        }
+
+        img {
+          width: 200px; 
+          height: 200px;
+          border-radius: 100px;
+        }
+
+        body {
+          text-align: center;
+          background-color: #ddcce6;
+          margin: 50px;
+        }

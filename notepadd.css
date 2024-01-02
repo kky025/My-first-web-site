@@ -1,0 +1,25 @@
+    body{
+        text-align: center;
+        background-color: #ddcce6;
+        margin: 50px;
+    }
+
+    h1{
+        font-family: 'Oswald', sans-serif;
+        color: rgb(0, 0, 0);
+    }
+
+    p{
+        font-family: 'Fira Sans', sans-serif;
+        color: rgb(129, 133, 106);
+    }
+
+    #메모1{
+        font-family: 'Fira Sans', sans-serif;
+        color: rgb(66, 96, 114)
+    }
+
+    #메모2{
+        font-family: 'Fira Sans', sans-serif;
+        color: rgb(228, 78, 78)
+    }
